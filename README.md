@@ -7,7 +7,7 @@ I developed a relational database using **MySQL** to manage a large inventory of
 
 This repository showcases the web crawl code created to extract data from earthquake sites.
 
-Want to learn more about my research?
+Want to learn more about my research? Click below to learn more!
 
 [![Video](doc/videoimage.png)](https://www.youtube.com/watch?v=POnC0nCmAGE "Research Presentation - Click to watch!")
 
