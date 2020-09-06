@@ -6,3 +6,7 @@ I spent the summer working with the UCLA Civil and Environmental Engineering's D
 I developed a relational database using **MySQL** to manage a large inventory of building damage and recovery modeling data. I also designed **web crawling algorithms** using **Python** and **Selenium** that reduced extraction time by 40% and added over 9,000 building attribute entries into the database
 
 This repository showcases the web crawl code created to extract data from earthquake sites.
+
+Want to learn more about my research?
+
+[![Video](https://img.youtube.com/vi/POnC0nCmAGE/0.jpg)](https://www.youtube.com/watch?v=POnC0nCmAGE)
