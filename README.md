@@ -9,4 +9,6 @@ This repository showcases the web crawl code created to extract data from earthq
 
 Want to learn more about my research?
 
-[![Video](https://img.youtube.com/vi/POnC0nCmAGE/0.jpg)](https://www.youtube.com/watch?v=POnC0nCmAGE)
+[![Video](doc/videoimage.png)](https://www.youtube.com/watch?v=POnC0nCmAGE "Research Presentation - Click to watch!")
+
+
